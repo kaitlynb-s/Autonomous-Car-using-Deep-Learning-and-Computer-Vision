@@ -17,5 +17,20 @@ This image shows how the connection will look once it is completed and how we wo
 This shows the window that opens that allows for us to type the code for the vehicle.
 ![QQ═╝╞¼20211207121848](https://user-images.githubusercontent.com/90004321/145451364-f22386d4-9b7b-4626-a4f5-8e67d5e15d4f.png)
 
-# Phase 3: Assembly
+# Phase 3: Download Programs and Configuration
+In order to focus on main goal of the project, i.e., applying a deep learning algorithms into an autonomous vehicle, an instructor provides a package of programs and libraries for an autonomous vehicle. DM-Car-New has the following functionalities:
+-   Lane detection both straight and curve lanes
+-   Controlling back wheel servos
+-   Controlling front steering wheel servo
+-   Camera module (OpenCV)
+-   Creating Video Clip
+-   Sequence of Image Files for dataset
+-   Deep Learning Models for Autonomous Car
+    -   Stop Not-Stop Model: CNN LeNet model
+    -   Lane Follower Model: Nvidia CNN model
+    -   Lane Follower Model: Nvidia CNN model
+    -   Stop Not-Stop Image Classification Model: "Stop No-Stop model" by Retrain a classification model for Edge TPU using post-training quantization (with TF2)
+    -   Traffic Sign Object Detection Model: "Traffic Sign Model" by Retrain EfficientDet for the Edge TPU with TensorFlow Lite Model Maker (with TF2)
+
+Below is an image that shows how the process of configuration begins and while we were unable to complete it due to our issues with our car, we were able to begin it.
 ![QQ═╝╞¼20211207122142](https://user-images.githubusercontent.com/90004321/145459333-3003be4e-de5e-4d6e-9287-456a03a259ed.png)
