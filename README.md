@@ -52,6 +52,7 @@ To create Deep Learning model, there are 4 main methods as below:
 3.  Cloud Service (GCP, AWS or Azure)
 4.  Docker
 
+While we could not make the vehicle move, we were able to complete all the steps to ensure that when it did work, the car would be able to stay between the two black lines and detect different signs.
 ![model3](https://user-images.githubusercontent.com/90004321/145461128-f64ec8b3-1ef7-4f5b-a67a-e947b5ac9606.png)
 ![QQ═╝╞¼20211207124252](https://user-images.githubusercontent.com/90004321/145461142-d2ff1d50-2274-4cef-afa6-57e12b8a6432.png)
 ![QQ═╝╞¼20211207125348](https://user-images.githubusercontent.com/90004321/145461156-ec8f050b-009c-48eb-adfa-eafd6e8fb9ad.png)
