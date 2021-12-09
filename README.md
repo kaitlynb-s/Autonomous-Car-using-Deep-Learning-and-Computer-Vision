@@ -16,3 +16,6 @@ This image shows how the connection will look once it is completed and how we wo
 
 This shows the window that opens that allows for us to type the code for the vehicle.
 ![QQ═╝╞¼20211207121848](https://user-images.githubusercontent.com/90004321/145451364-f22386d4-9b7b-4626-a4f5-8e67d5e15d4f.png)
+
+# Phase 3: Assembly
+![QQ═╝╞¼20211207122142](https://user-images.githubusercontent.com/90004321/145459333-3003be4e-de5e-4d6e-9287-456a03a259ed.png)
